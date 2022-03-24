@@ -1,0 +1,100 @@
+[ 
+   {
+      "name": "Galaxy S10e",
+      "brand": "Samsung",
+      "codename": "beyond0lte",
+      "supported_versions": [
+         {
+            "maintainer_name": "Orel6505",
+            "maintainer_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S10",
+      "brand": "Samsung",
+      "codename": "beyond1lte",
+      "supported_versions": [
+         {
+            "maintainer_name": "Orel6505",
+            "maintainer_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S10+",
+      "brand": "Samsung",
+      "codename": "beyond2lte",
+      "supported_versions": [
+         {
+            "maintainer_name": "Orel6505",
+            "maintainer_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy S10 5G",
+      "brand": "Samsung",
+      "codename": "beyondx",
+      "supported_versions": [
+         {
+            "maintainer_name": "Orel6505",
+            "maintainer_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy Note10",
+      "brand": "Samsung",
+      "codename": "d1",
+      "supported_versions": [
+         {
+            "maintainer_name": "Orel6505",
+            "maintainer_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy Note10+",
+      "brand": "Samsung",
+      "codename": "d2s",
+      "supported_versions": [
+         {
+            "maintainer_name": "Orel6505",
+            "maintainer_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "name": "Galaxy Note10+ 5G",
+      "brand": "Samsung",
+      "codename": "d2x",
+      "supported_versions": [
+         {
+            "maintainer_name": "Orel6505",
+            "maintainer_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   }
+]
