@@ -2,12 +2,12 @@
   "response": [
     {
         "maintainer": "Orel Yosupov (Orel6505)",
-        "filename": "evolution_beyond0lte-ota-sp2a.220505.002-05081110-unofficial-unsigned.zip",
-        "download": "https://github.com/orel6505/OTA/releases/download/evolution_beyond0lte-ota-sp2a.220505.002-05081110-unofficial-unsigned.zip/evolution_beyond0lte-ota-sp2a.220505.002-05081110-unofficial-unsigned.zip",
+        "filename": "evolution_beyond0lte-ota-sp2a.220505.002-05082307-unofficial-unsigned.zip",
+        "download": "https://github.com/orel6505/OTA/releases/download/evolution_beyond0lte-ota-sp2a.220505.002-05082307-unofficial-unsigned.zip/evolution_beyond0lte-ota-sp2a.220505.002-05082307-unofficial-unsigned.zip",
         "timestamp": "1651700827",
-        "md5": "292ec447b5011a11b2593e06ea83eb1d",
-        "sha256": "dc53d9e55a2e47049828bd827b4ec1fd10011ba1b6edc869b49a2fe6f275bf15",
-        "size": "1673961578",
+        "md5": "2725ce0861828249b6475dbebda49b80",
+        "sha256": "8ec9beb3690f81e109a08dbb9ee5d1afbc2a1a1df30a4d80737a0a4605529f1b",
+        "size": "1673973583",
         "version": "snow",
         "buildtype": "",
         "forum": "",
@@ -17,7 +17,7 @@
         "bootloader": "",
         "recovery": "",
         "paypal": "",
-        "telegram": "https;//t.me/@Orel6505",
+        "telegram": "",
     }
   ]
 }
