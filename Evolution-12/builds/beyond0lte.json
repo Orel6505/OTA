@@ -1,17 +1,23 @@
 {
-   "error": false,
-   "filename": "",
-   "datetime": ,
-   "size": ,
-   "url": "",
-   "filehash": "",
-   "version": "",
-   "id": "",
-   "website_url": "",
-   "news_url": "https://t.me/Orel6505_Builds_Channel",
-   "donate_url": "",
-   "maintainer": "Orel Yosupov (Orel6505)",
-   "maintainer_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
-   "telegram_username": "Orel6505",
-   "forum_url": ""
+  "response": [
+    {
+        "maintainer": "Orel Yosupov (Orel6505)",
+        "filename": "evolution_beyond0lte-ota-sp2a.220505.002-05080904-unofficial-unsigned.zip",
+        "download": "https://github.com/orel6505/OTA/releases/download/evolution_beyond0lte-ota-sp2a.220505.002-05080904-unofficial-unsigned.zip/evolution_beyond0lte-ota-sp2a.220505.002-05080904-unofficial-unsigned.zip",
+        "timestamp": "1651700827",
+        "md5": "50d0b6d71df8d59153c1402e02f77c79",
+        "sha256": "baab078a1a3b11081c1e56064a3033b98cffc403bc26f91059ad822bd0af14d3",
+        "size": "1673956187",
+        "version": "snow",
+        "buildtype": "",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https;//t.me/@Orel6505",
+    }
+  ]
 }
