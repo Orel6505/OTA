@@ -1,23 +1,17 @@
 {
-  "response": [
-    {
-        "maintainer": "Orel Yosupov (Orel6505)",
-        "filename": "evolution_beyond0lte-ota-sp2a.220505.002-05082307-unofficial-unsigned.zip",
-        "download": "https://github.com/orel6505/OTA/releases/download/evolution_beyond0lte-ota-sp2a.220505.002-05082307-unofficial-unsigned.zip/evolution_beyond0lte-ota-sp2a.220505.002-05082307-unofficial-unsigned.zip",
-        "timestamp": "1651700827",
-        "md5": "2725ce0861828249b6475dbebda49b80",
-        "sha256": "8ec9beb3690f81e109a08dbb9ee5d1afbc2a1a1df30a4d80737a0a4605529f1b",
-        "size": "1673973583",
-        "version": "snow",
-        "buildtype": "",
-        "forum": "",
-        "gapps": "",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "",
-        "paypal": "",
-        "telegram": "",
-    }
-  ]
+  "error": false,
+  "filename": "evolution_beyond0lte-ota-sp2a.220505.002-05090851-unofficial-unsigned.zip",
+  "filehash": "90d441eada7d9291c1fd9b73248acbd7",
+  "id": "4d7be77d63bdaa514c59b8ac8d4ebe0782ace4c0d211f3500790485711c3abff",
+  "datetime":"1651700827",
+  "size": "1674086433",
+  "version": "snow",
+  "maintainer": "Orel Yosupov (Orel6505)",
+  "telegram_username": "@Orel6505",
+  "url":, "https://github.com/orel6505/OTA/releases/download/evolution_beyond0lte-ota-sp2a.220505.002-05090851-unofficial-unsigned.zip/evolution_beyond0lte-ota-sp2a.220505.002-05090851-unofficial-unsigned.zip",
+  "maintainer_url": "https://forum.xda-developers.com/m/orel6505.8767339/",
+  "news_url": "https://t.me/Orel6505_Builds_Channel",
+  "forum_url": "",
+  "website_url": "",
+  "donate_url": ""
 }
